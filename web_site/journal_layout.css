@@ -1,0 +1,60 @@
+body{
+	background-image: url("background.gif");
+	display: block;
+	
+}
+.sidebar {
+    float: left;
+    box-sizing: border-box;
+    width: 240px;
+    padding: 1px;
+    margin-top: 105px;
+    background: #99E0E0;
+}
+.main {
+    /*margin-left: 240px;*/
+    overflow: hidden;
+    padding: 20px;
+}
+.container{
+	display: block;
+	width: 80%;
+	padding: 8px;
+	background: white;
+	margin-right: 10%;
+    margin-left: 10%;
+}
+
+.paragraph{
+	width: 100%;
+	box-sizing: border-box;
+	margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.two{
+	border: 10px solid #C2E9E9;
+}
+.side{
+	 width: 100%;
+     box-sizing: border-box;
+}
+.bar{
+	 border: 5px solid #009097;
+	 padding: 10px;
+}
+
+.pink{
+	text-align: right;
+	box-sizing: border-box;
+	background: #A8F0F0;
+}
+
+.blue{
+	box-sizing: border-box;
+	background: #E8FBFB;
+}
+
+h2{
+text-decoration: underline;
+}
